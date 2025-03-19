@@ -1,5 +1,13 @@
 
-# Specification 'cloud-edge-client'
+# Cloud-Edge-Client Coordination CG
 
-This is the repository for cloud-edge-client. You're welcome to contribute! Let's make the Web rock our socks
-off!
+This is the repository for Cloud-Edge-Client coordination work. 
+You're welcome to contribute! 
+
+**Charter**: https://www.w3.org/community/cloud-edge-client/ 
+
+**Use cases**: https://github.com/w3c/edge-computing-web-exploration/ 
+
+**Use cases github**: https://github.com/w3c/edge-computing-web-exploration/ 
+
+

@@ -1,8 +1,7 @@
 
 # Cloud-Edge-Client Coordination CG
 
-This is the repository for Cloud-Edge-Client coordination work. 
-You're welcome to contribute! 
+This was the repository for Cloud-Edge-Client coordination work. 
 
 **Charter**: https://www.w3.org/community/cloud-edge-client/ 
 
